@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.test.js has the expected html structure 1`] = `
+<div
+  id="app"
+>
+  <h1>
+    Testing 
+    <strong>
+      Vue
+    </strong>
+     with 
+    <em>
+      Jest
+    </em>
+  </h1>
+   
+  <messagelist-stub
+    messages="Cat"
+  />
+   
+  <form-stub />
+</div>
+`;
